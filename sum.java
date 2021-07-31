@@ -3,7 +3,7 @@ public class sum{
 	 	int a=20;
 	 	int b=40;
 
-	 	System.Out.println(a+b);
+	 	System.Out.println("sum of two numbers"+(a+b));
 		
 	}
 }
