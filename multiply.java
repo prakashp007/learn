@@ -4,6 +4,7 @@ public class multiply{
 	 	int b=40;
 
 	 	System.Out.println("sum of two numbers"+(a*b));
+	 	System.Out.println("*********");
 		
 	}
 }
